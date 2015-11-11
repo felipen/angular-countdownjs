@@ -1,0 +1,23 @@
+{
+  "name": "angular-countdownjs",
+  "authors": [
+    "Felipe <felipengc@gmail.com>"
+  ],
+  "description": "Directive to use countdown.js with AngularJs",
+  "main": "angular-countdown.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "countdown.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/felipen/angular-countdownjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
