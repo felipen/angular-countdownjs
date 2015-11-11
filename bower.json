@@ -3,7 +3,7 @@
   "authors": [
     "Felipe <felipengc@gmail.com>"
   ],
-  "description": "Directive to use countdown.js with AngularJs",
+  "description": "Directive to use kbwood/countdown.js with AngularJs",
   "main": "angular-countdown.js",
   "moduleType": [
     "globals"

@@ -1,2 +1,2 @@
 # angular-countdownjs
-A directive to use countdown.js with AngularJS
+Directive to use kbwood/countdown.js with AngularJs
